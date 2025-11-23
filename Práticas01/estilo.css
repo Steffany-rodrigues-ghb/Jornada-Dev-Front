@@ -1,0 +1,26 @@
+/* CSS
+
+Centralizar a section na tela.
+
+Colocar uma borda leve e arredondada na seção.
+
+Dar um espaçamento interno (padding).
+
+Definir uma cor de fundo suave para a seção.
+
+Estilizar o botão para parecer clicável (cor, padding e borda arredondada). */
+
+section{
+    border-radius: 30px;
+    padding: 20px;
+    background-color: bisque;
+    
+}
+.botao{
+        display: inline-block;
+        background-color: orange;
+        padding-bottom: 10px 20px ;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: bold;
+    }
